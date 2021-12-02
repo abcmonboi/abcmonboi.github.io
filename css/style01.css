@@ -5,11 +5,14 @@ body{
     background:#B3B3B3;
     font-size: 125%;
 
+
 }
 
 header{
     background: #666666;
     text-align: center;
+    margin: 2%;
+    padding-bottom: 15px;
 }
 
 h1{
@@ -38,6 +41,19 @@ details{
 
 
 footer{
-    background: #666666
+
+    background: #00b7ea;
+    clear :both;
+
+}
+img{
+width: 125px;
+}
+section{
+
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right:15px ;
 }
 
